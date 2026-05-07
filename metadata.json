@@ -1,0 +1,6 @@
+{
+  "name": "GAS builder",
+  "description": "An interactive architect tool for generating high-fidelity DeepSeek prompts specifically for Google Apps Script and Spreadsheet web applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
